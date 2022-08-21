@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13983d3d-ec79-4665-8631-212c2631fc05" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Lesson3_1/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3_1/Lesson3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3_1/Lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3_1/Lesson3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson3_2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Intech/Lesson3/Lesson3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Intech/Lesson3/Lesson3&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3" />
